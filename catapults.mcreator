@@ -1,0 +1,36 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "T",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "t"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "catapults",
+    "modName": "catapults",
+    "version": "1.0.0",
+    "author": "janko, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.catapults",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
