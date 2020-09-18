@@ -2,20 +2,53 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Catapult",
-      "type": "block",
+      "name": "Explode",
+      "type": "enchantment",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "catapult"
+      "registry_name": "explode"
+    },
+    {
+      "name": "Explodechan",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "explodechan",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.catapults.catapult": "Catapult"
+      "enchantment.catapults.explode": "Explode hit"
     }
   },
   "workspaceSettings": {
