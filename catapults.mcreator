@@ -2,19 +2,21 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "T",
-      "type": "gui",
+      "name": "Catapult",
+      "type": "block",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "t"
+      "registry_name": "catapult"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.catapults.catapult": "Catapult"
+    }
   },
   "workspaceSettings": {
     "modid": "catapults",

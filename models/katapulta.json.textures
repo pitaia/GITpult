@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "katapulta",
+        "1": "katapulta2",
+        "2": "katapulta3"
+      },
+      "name": "default"
+    }
+  }
+}
