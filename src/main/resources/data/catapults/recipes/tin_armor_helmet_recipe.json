@@ -1,0 +1,29 @@
+{
+  "group": "catapults",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "catapults:tin_ingot"
+    },
+    "1": {
+      "item": "catapults:tin_ingot"
+    },
+    "2": {
+      "item": "catapults:tin_ingot"
+    },
+    "3": {
+      "item": "catapults:tin_ingot"
+    },
+    "5": {
+      "item": "catapults:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "catapults:tin_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "catapults",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "catapults:tin_ore_block"
+    }
+  ],
+  "result": {
+    "item": "catapults:tin_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "catapults",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "catapults:tin_ore"
+  },
+  "result": {
+    "item": "catapults:tin_ingot"
+  }
+}

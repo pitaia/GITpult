@@ -1,0 +1,39 @@
+{
+  "group": "catapults",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "catapults:copper_ingot"
+    },
+    "2": {
+      "item": "catapults:copper_ingot"
+    },
+    "3": {
+      "item": "catapults:copper_ingot"
+    },
+    "4": {
+      "item": "catapults:copper_ingot"
+    },
+    "5": {
+      "item": "catapults:copper_ingot"
+    },
+    "6": {
+      "item": "catapults:copper_ingot"
+    },
+    "7": {
+      "item": "catapults:copper_ingot"
+    },
+    "8": {
+      "item": "catapults:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "catapults:copper_armor_chestplate",
+    "count": 1
+  }
+}

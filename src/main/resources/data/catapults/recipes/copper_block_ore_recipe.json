@@ -1,0 +1,13 @@
+{
+  "group": "catapults",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "catapults:copper_ore_block"
+    }
+  ],
+  "result": {
+    "item": "catapults:copper_ingot",
+    "count": 9
+  }
+}
