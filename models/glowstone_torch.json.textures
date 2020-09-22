@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "torchura",
+        "1": "torchura2"
+      },
+      "name": "default"
+    }
+  }
+}

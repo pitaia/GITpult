@@ -573,6 +573,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobalt_armor_boots_recipe"
+    },
+    {
+      "name": "Glowstonetorch",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstonetorch"
     }
   ],
   "variable_elements": [],
@@ -582,10 +591,11 @@
       "block.catapults.copper_ore_block": "Block of Copper",
       "item.catapults.cobalt_shovel": "Cobalt Shovel",
       "item.catapults.copper_armor_boots": "Copper Boots",
+      "block.catapults.glowstonetorch": "Glowstonetorch",
       "block.catapults.copper_ore": "Copper Ore",
-      "item.catapults.tin_armor_chestplate": "Tin Chestplate",
-      "block.catapults.cobalt_ore_block": "Block of Cobalt",
       "item.catapults.cobalt_hoe": "Cobalt Hoe",
+      "block.catapults.cobalt_ore_block": "Block of Cobalt",
+      "item.catapults.tin_armor_chestplate": "Tin Chestplate",
       "item.catapults.tin_hoe": "Tin Hoe",
       "block.catapults.tin_ore": "Tin Ore",
       "item.catapults.copper_armor_chestplate": "Copper Chestplate",

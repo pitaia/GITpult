@@ -1,0 +1,9 @@
+{
+  "parent": "catapults:custom/glowstone_torch",
+  "textures": {
+    "all": "catapults:blocks/torchura",
+    "particle": "catapults:blocks/torchura",
+    "0": "catapults:blocks/torchura",
+    "1": "catapults:blocks/torchura2"
+  }
+}
